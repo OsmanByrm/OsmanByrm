@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OsmanByrm
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science & ML 
+- 🌱 I’m currently learning Data Science & Cloud 
 - 📫 How to reach me E-Mail
 - 😄 Pronouns: OSMAN
 
